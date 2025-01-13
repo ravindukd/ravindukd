@@ -7,10 +7,10 @@
 
 - **Frontend:** React, Svelte 🌐
 - **Backend:** Node.js, Express, Laravel, Supabase 🔧
-- **Mobile:** Flutter 📱
-- **Database:** MongoDB, MySQL, Postgres, Firebase 💾
-- **DevOps:** Docker, AWS, Azure ☁️
-- **Languages:** JavaScript, Java, Dart, Python, PHP 💻
+- **Mobile:** Flutter, Kotlin 📱
+- **Database:** MongoDB, MySQL, Postgres, Firebase, Weaviate 💾
+- **DevOps:** Docker, AWS, Azure, Github Actions ☁️
+- **Languages:** JavaScript, Java, Dart, Python, PHP, Kotlin 💻
 
 ## Bonus Skill
 
